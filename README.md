@@ -10,7 +10,7 @@
 **Específicos**
 
 -uruf
--fjfj
+-raro es la
 
 ### 2. MARCO TEORICO
 
