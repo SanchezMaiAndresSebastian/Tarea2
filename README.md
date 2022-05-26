@@ -1,4 +1,4 @@
-# Tarea2
+# Tarea 2
 ## LEY DE OHM - ENERGÍA Y POTENCIA
 ### 1. OBJETIVOS
 
