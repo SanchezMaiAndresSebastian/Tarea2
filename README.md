@@ -31,6 +31,8 @@
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea2/blob/main/Fotos/Tarea%202-%20Fund%20de%20Circuitos_page-0009.jpg)
 ### 4. VIDEO
 
+- https://uespe-my.sharepoint.com/:v:/g/personal/assanchez11_espe_edu_ec/EbIaHiTtY6xIv5KFuTlsjRYBRXpcoJvGrky0BO0A6MrGeg?email=assanchez11%40espe.edu.ec
+
 ### 5. CONCLUSIONES
 
 - La ley de ohm sirve para poder calcular diferentes tipos de (resistencias, corriente, voltaje) en un circuito y su relación que existe en los tres conceptoos.
