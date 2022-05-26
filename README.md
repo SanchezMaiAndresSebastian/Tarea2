@@ -2,7 +2,7 @@
 ## LEY DE OHM - ENERGÍA Y POTENCIA
 ### 1. OBJETIVOS
 **Principales**
--
+-uhh4gber
 **Específicos**
 
 ### 2. MARCO TEORICO
