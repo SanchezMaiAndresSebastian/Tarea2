@@ -21,7 +21,7 @@
 
 ### 5. CONCLUSIONES
 
-- La ley de ohm sirve para poder calcular diferentes tipos de (resistencias, corriente, voltaje) en un circuito y su relación que existe en los tres conceptos.
+- La ley de ohm sirve para poder calcular diferentes tipos de (resistencias, corriente, voltaje) en un circuito y su relación que existe en los tres conceptoos.
 - Existe otra relación, una cuarta que es (Potencia), el cual es la energía que se disipa a través de un paso de electrones a través de un resistor, que se desprende por calor.
 
 ### 6. BIBLIOGRAFÍA
