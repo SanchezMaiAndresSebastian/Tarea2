@@ -1,8 +1,11 @@
 # Tarea2
 ## LEY DE OHM - ENERGÍA Y POTENCIA
 ### 1. OBJETIVOS
+
 **Principales**
--uhh4gber
+
+- Lograr 
+
 **Específicos**
 
 ### 2. MARCO TEORICO
