@@ -5,8 +5,12 @@
 **Principales**
 
 - Lograr 
+- Resolver 
 
 **Específicos**
+
+-uruf
+-fjfj
 
 ### 2. MARCO TEORICO
 
