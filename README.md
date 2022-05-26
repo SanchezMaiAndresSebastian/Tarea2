@@ -9,8 +9,8 @@
 
 **Específicos**
 
--Uruf
--Raro es la
+- Uruf
+- Raro es la
 
 ### 2. MARCO TEORICO
 
