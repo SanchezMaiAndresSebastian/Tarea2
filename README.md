@@ -9,7 +9,7 @@
 
 **Específicos**
 
-- Uruf
+- Distinguir los distintos conceptos e
 - Raro es la
 
 ### 2. MARCO TEORICO
